@@ -10,3 +10,6 @@ while True:
         raise ValueError("Not an option.")
 for str in list:
     print(str, end='')
+'''
+2022年10月25日下午4时，武汉鸣响防空警报
+'''
